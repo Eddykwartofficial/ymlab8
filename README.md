@@ -1,7 +1,7 @@
 # ymlab8
 
 Project Summary
-The Yamoransa Model Lab 8 project is focused on developing a comprehensive educational platform that provides advanced modeling and analytics services. The project features a modern website designed to facilitate learning and engagement through various interactive modules, including a quiz system, educational programs, and donation functionalities. It aims to empower users by transforming complex data into actionable insights while showcasing the lab’s capabilities in analytical education.
+The Yamoransa Model Lab 8 project is focused on developing a comprehensive educational platform that provides advanced STEAM and robotics education. The project features a modern website designed to facilitate learning and engagement through various interactive modules, including a quiz system, educational programs, and donation functionalities. It aims to empower users by transforming complex concepts into actionable insights while showcasing the lab’s capabilities in STEM education.
 
 Project Module Description
 The website consists of several functional modules:
@@ -9,6 +9,7 @@ The website consists of several functional modules:
 Main Structure: Built with HTML, includes navigation, hero section, about, programs, learning center (with quiz), gallery, news, and donation sections.
 Styling: CSS ensures a professional aesthetic, responsiveness, and a cohesive color scheme.
 Interactivity: JavaScript enhances user experience with mobile menus, smooth scrolling, animations, and quiz functionalities.
+
 Directory Tree
 yamoransa-lab8-website/
 
