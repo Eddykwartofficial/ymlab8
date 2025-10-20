@@ -42,6 +42,25 @@ body {
     transition: all 0.3s ease;
 }
 
+
+        .mission-vision {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .mission, .vision {
+            width: 48%;
+            padding: 20px;
+            background: #f8f8f8;
+        }
+
+        .mission h3, .vision h3 {
+            color: #006400;
+            font-size: 18px;
+            padding-bottom: 10px;
+        }
+
 .navbar {
     padding: 1rem 0;
 }
